@@ -1,0 +1,1 @@
+{"fields":[{"name":"id","type":"integer","required":true},{"name":"created","type":"integer","required":true}],"mapping":{"created":"created_date"},"transformations":[{"field":"created","operation":"timestamp_to_date"},{"field":"status","operation":"replace","values":{"A":"Active","I":"Inactive"}}]}

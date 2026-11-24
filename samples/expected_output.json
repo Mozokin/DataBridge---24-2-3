@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "full_name": "ИВАН",
+    "email": "user1@mail.ru",
+    "age": 17,
+    "date_of_birth": "2000-03-10",
+    "active": false,
+    "score": 76.5
+  },
+  {
+    "id": 2,
+    "full_name": "МАРИЯ",
+    "email": "user2@mail.ru",
+    "age": 18,
+    "date_of_birth": "2000-03-10",
+    "active": true,
+    "score": 77.5
+  },
+  {
+    "id": 3,
+    "full_name": "ПЁТР",
+    "email": "user3@mail.ru",
+    "age": 19,
+    "date_of_birth": "2000-03-10",
+    "active": false,
+    "score": 78.5
+  },
+  {
+    "id": 4,
+    "full_name": "АННА",
+    "email": "user4@mail.ru",
+    "age": 20,
+    "date_of_birth": "2000-03-10",
+    "active": true,
+    "score": 79.5
+  },
+  {
+    "id": 5,
+    "full_name": "ОЛЕГ",
+    "email": "user5@mail.ru",
+    "age": 21,
+    "date_of_birth": "2000-03-10",
+    "active": false,
+    "score": 80.5
+  },
+  {
+    "id": 6,
+    "full_name": "ЕЛЕНА",
+    "email": "user6@mail.ru",
+    "age": 22,
+    "date_of_birth": "2000-03-10",
+    "active": true,
+    "score": 81.5
+  },
+  {
+    "id": 7,
+    "full_name": "ИРИНА",
+    "email": "user7@mail.ru",
+    "age": 23,
+    "date_of_birth": "2000-03-10",
+    "active": false,
+    "score": 82.5
+  },
+  {
+    "id": 8,
+    "full_name": "ДЕНИС",
+    "email": "user8@mail.ru",
+    "age": 24,
+    "date_of_birth": "2000-03-10",
+    "active": true,
+    "score": 83.5
+  },
+  {
+    "id": 9,
+    "full_name": "ОЛЬГА",
+    "email": "user9@mail.ru",
+    "age": 25,
+    "date_of_birth": "2000-03-10",
+    "active": false,
+    "score": 84.5
+  },
+  {
+    "id": 10,
+    "full_name": "АЛЕКСЕЙ",
+    "email": "user10@mail.ru",
+    "age": 26,
+    "date_of_birth": "2000-03-10",
+    "active": true,
+    "score": 85.5
+  }
+]

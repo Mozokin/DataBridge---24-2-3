@@ -1,0 +1,12 @@
+﻿id,name,email,age,birth_date,active,score
+1, Иван ,User1@MAIL.RU,17,2000-03-10,False,76.5
+11,Борис,bad.mail.ru,22,2000-01-01,True,80
+12,Вера,v@mail.ru,200,2000-01-01,True,80
+13,,e@mail.ru,22,2000-01-01,True,80
+14,Анна,a@mail.ru,abc,2000-01-01,True,80
+15,Лев,l@mail.ru,22,2023-02-29,True,80
+1,Иван,i@mail.ru,22,2000-01-01,True,80
+17,Я,y@mail.ru,22,2000-01-01,True,80
+18,Роман,r@mail.ru,22,2000-01-01,maybe,80
+19,Нина,n@mail.ru,22,2000-01-01,True,101
+,Вадим,w@mail.ru,15,1899-12-31,True,80

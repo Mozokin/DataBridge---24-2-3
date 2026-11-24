@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": " Иван ",
+    "email": "User1@MAIL.RU",
+    "age": 17,
+    "birth_date": "2000-03-10",
+    "active": false,
+    "score": 76.5
+  },
+  {
+    "id": 2,
+    "name": "Мария",
+    "email": "User2@MAIL.RU",
+    "age": 18,
+    "birth_date": "2000-03-10",
+    "active": true,
+    "score": 77.5
+  },
+  {
+    "id": 3,
+    "name": "Пётр",
+    "email": "User3@MAIL.RU",
+    "age": 19,
+    "birth_date": "2000-03-10",
+    "active": false,
+    "score": 78.5
+  },
+  {
+    "id": 4,
+    "name": "Анна",
+    "email": "User4@MAIL.RU",
+    "age": 20,
+    "birth_date": "2000-03-10",
+    "active": true,
+    "score": 79.5
+  },
+  {
+    "id": 5,
+    "name": "Олег",
+    "email": "User5@MAIL.RU",
+    "age": 21,
+    "birth_date": "2000-03-10",
+    "active": false,
+    "score": 80.5
+  },
+  {
+    "id": 6,
+    "name": "Елена",
+    "email": "User6@MAIL.RU",
+    "age": 22,
+    "birth_date": "2000-03-10",
+    "active": true,
+    "score": 81.5
+  },
+  {
+    "id": 7,
+    "name": "Ирина",
+    "email": "User7@MAIL.RU",
+    "age": 23,
+    "birth_date": "2000-03-10",
+    "active": false,
+    "score": 82.5
+  },
+  {
+    "id": 8,
+    "name": "Денис",
+    "email": "User8@MAIL.RU",
+    "age": 24,
+    "birth_date": "2000-03-10",
+    "active": true,
+    "score": 83.5
+  },
+  {
+    "id": 9,
+    "name": "Ольга",
+    "email": "User9@MAIL.RU",
+    "age": 25,
+    "birth_date": "2000-03-10",
+    "active": false,
+    "score": 84.5
+  },
+  {
+    "id": 10,
+    "name": "Алексей",
+    "email": "User10@MAIL.RU",
+    "age": 26,
+    "birth_date": "2000-03-10",
+    "active": true,
+    "score": 85.5
+  },
+  {
+    "id": 11,
+    "name": "Борис",
+    "email": "bad.mail.ru",
+    "age": 22,
+    "birth_date": "2000-01-01",
+    "active": true,
+    "score": 80
+  },
+  {
+    "id": 12,
+    "name": "Вера",
+    "email": "v@mail.ru",
+    "age": 200,
+    "birth_date": "2000-01-01",
+    "active": true,
+    "score": 80
+  },
+  {
+    "id": 13,
+    "name": "",
+    "email": "e@mail.ru",
+    "age": 22,
+    "birth_date": "2000-01-01",
+    "active": true,
+    "score": 80
+  },
+  {
+    "id": 14,
+    "name": "Анна",
+    "email": "a@mail.ru",
+    "age": "abc",
+    "birth_date": "2000-01-01",
+    "active": true,
+    "score": 80
+  },
+  {
+    "id": 15,
+    "name": "Лев",
+    "email": "l@mail.ru",
+    "age": 22,
+    "birth_date": "2023-02-29",
+    "active": true,
+    "score": 80
+  },
+  {
+    "id": 1,
+    "name": "Иван",
+    "email": "i@mail.ru",
+    "age": 22,
+    "birth_date": "2000-01-01",
+    "active": true,
+    "score": 80
+  },
+  {
+    "id": 17,
+    "name": "Я",
+    "email": "y@mail.ru",
+    "age": 22,
+    "birth_date": "2000-01-01",
+    "active": true,
+    "score": 80
+  },
+  {
+    "id": 18,
+    "name": "Роман",
+    "email": "r@mail.ru",
+    "age": 22,
+    "birth_date": "2000-01-01",
+    "active": "maybe",
+    "score": 80
+  },
+  {
+    "id": 19,
+    "name": "Нина",
+    "email": "n@mail.ru",
+    "age": 22,
+    "birth_date": "2000-01-01",
+    "active": true,
+    "score": 101
+  },
+  {
+    "id": "",
+    "name": "Вадим",
+    "email": "w@mail.ru",
+    "age": 15,
+    "birth_date": "1899-12-31",
+    "active": true,
+    "score": 80
+  }
+]

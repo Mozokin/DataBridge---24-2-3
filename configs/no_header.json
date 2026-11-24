@@ -1,0 +1,1 @@
+{"fields":[{"name":"id","type":"integer","required":true,"unique":true},{"name":"name","type":"string","required":true}],"csv":{"delimiter":";","has_header":false,"columns":["id","name"]}}

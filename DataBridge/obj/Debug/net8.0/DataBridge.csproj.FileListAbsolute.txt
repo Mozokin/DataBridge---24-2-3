@@ -1,0 +1,14 @@
+C:\Users\Asus\Desktop\DataBridge_KT3\DataBridge\DataBridge\bin\Debug\net8.0\databridge.exe
+C:\Users\Asus\Desktop\DataBridge_KT3\DataBridge\DataBridge\bin\Debug\net8.0\databridge.deps.json
+C:\Users\Asus\Desktop\DataBridge_KT3\DataBridge\DataBridge\bin\Debug\net8.0\databridge.runtimeconfig.json
+C:\Users\Asus\Desktop\DataBridge_KT3\DataBridge\DataBridge\bin\Debug\net8.0\databridge.dll
+C:\Users\Asus\Desktop\DataBridge_KT3\DataBridge\DataBridge\bin\Debug\net8.0\databridge.pdb
+C:\Users\Asus\Desktop\DataBridge_KT3\DataBridge\DataBridge\obj\Debug\net8.0\DataBridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\DataBridge_KT3\DataBridge\DataBridge\obj\Debug\net8.0\DataBridge.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\DataBridge_KT3\DataBridge\DataBridge\obj\Debug\net8.0\DataBridge.AssemblyInfo.cs
+C:\Users\Asus\Desktop\DataBridge_KT3\DataBridge\DataBridge\obj\Debug\net8.0\DataBridge.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DataBridge_KT3\DataBridge\DataBridge\obj\Debug\net8.0\databridge.dll
+C:\Users\Asus\Desktop\DataBridge_KT3\DataBridge\DataBridge\obj\Debug\net8.0\refint\databridge.dll
+C:\Users\Asus\Desktop\DataBridge_KT3\DataBridge\DataBridge\obj\Debug\net8.0\databridge.pdb
+C:\Users\Asus\Desktop\DataBridge_KT3\DataBridge\DataBridge\obj\Debug\net8.0\DataBridge.genruntimeconfig.cache
+C:\Users\Asus\Desktop\DataBridge_KT3\DataBridge\DataBridge\obj\Debug\net8.0\ref\databridge.dll

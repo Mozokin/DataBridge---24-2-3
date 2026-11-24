@@ -1,0 +1,14 @@
+{
+  "fields": [
+    {"name":"id","type":"integer","required":true,"unique":true,"min":1},
+    {"name":"name","type":"string","required":true,"min_length":2,"max_length":60},
+    {"name":"email","type":"string","required":true,"pattern":"^[^@\\s]+@[^@\\s]+\\.[^@\\s]+$"},
+    {"name":"age","type":"integer","required":true,"min":16,"max":100},
+    {"name":"birth_date","type":"date","required":true,"format":"YYYY-MM-DD","min":"1900-01-01","max":"2026-12-31"},
+    {"name":"active","type":"boolean"},
+    {"name":"score","type":"float","min":0,"max":100}
+  ],
+  "csv":{"delimiter":",","has_header":true},
+  "mapping":{"name":"full_name","birth_date":"date_of_birth"},
+  "transformations":[{"field":"name","operation":"trim"},{"field":"name","operation":"upper"},{"field":"email","operation":"lower"}]
+}

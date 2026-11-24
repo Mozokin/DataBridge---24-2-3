@@ -1,0 +1,31 @@
+PASS V01 required missing
+PASS V02 optional empty
+PASS V03 integer
+PASS V04 decimal invariant
+PASS V05 min inclusive
+PASS V06 max inclusive
+PASS V07 regex
+PASS V08 unique normalized
+PASS V09 string length
+PASS V10 dates leap year
+PASS V11 date range
+PASS V12 boolean
+PASS V13 rejected row does not reserve ID
+PASS V14 string rejects numeric JSON
+PASS C01 CSV quotes and newline
+PASS C02 CSV delimiter no header
+PASS C03 invalid CSV
+PASS C04 malformed JSON
+PASS C05 mapping trim upper lower replace
+PASS C06 timestamp
+PASS C07 mapping collision
+PASS C08 round trip csv
+PASS C08 round trip json
+PASS C08 round trip xml
+PASS C08 round trip xlsx
+PASS C09 CSV to JSON
+PASS C10 bad timestamp rejected
+PASS R01 report escapes HTML and preserves rejected rows
+Ошибка: Could not find file 'C:\Users\Asus\AppData\Local\Temp\DataBridgeTests-ead355d5-de45-47e5-b893-d11a0cc35fb9\missing.csv'.
+PASS CLI01 invalid file returns 1
+TOTAL 29; PASSED 29; FAILED 0
